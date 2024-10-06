@@ -17,11 +17,14 @@ Research Data Consultant @ Appalachian State University
 -   The data set was cleaned using excel (_incomplete surveys were removed for consent concerns_)
 -   R studio was used to make composite variables,(_combining variables into one composite score_), run alphas, and complete descriptive and inferential statistics.
 -  #### R script: #Creating a composite variable in R
--      #Checking the alpha of the items in the scale to make sure there is strong reliability across items (_justification for making it a scale score_)
+-      #Checking the alpha of the items in the scale to make sure there is strong reliability across items
+-       (_justification for making it a scale score_)
 -          - Beliefs About Obese Persons Scale: Script for Alpha
--          - alpha(weight_ed[,c('BAOP1','BAOP2R','BAOP3','BAOP4','BAOP5','BAOP6','BAOP7R','BAOP8')])
+-          - alpha(weight_ed[,c('BAOP1','BAOP2R','BAOP3',
+-      'BAOP4','BAOP5','BAOP6','BAOP7R','BAOP8')])
 -      #Creating a composite variable with reverse coded items
--          - weight_ed$BAOP_SCALE <- rowMeans(calyope[,c('BAOP1','BAOP2R','BAOP3','BAOP4','BAOP5','BAOP6','BAOP7R','BAOP8')], na.rm=TRUE)
+-          - weight_ed$BAOP_SCALE <- rowMeans(calyope[,c('BAOP1','BAOP2R',
+-      'BAOP3','BAOP4','BAOP5','BAOP6','BAOP7R','BAOP8')], na.rm=TRUE)
 #### Weight Stigma and Perceptions of Fitness Influencers 
 - 
 
