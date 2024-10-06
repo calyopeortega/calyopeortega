@@ -1,8 +1,8 @@
 ## Research Data Analyst/Consultant
 
 ### Education 
-Psychological Sciences, MA
-Psychology, BA
+Psychological Sciences, MA (_MAY 2025_)
+Psychology, BA (_MAY 2021_)
 
 ### Work Experience
 Research Data Consultant @ Appalachian State University
