@@ -18,9 +18,7 @@ Research Data Consultant @ Appalachian State University
 -   R studio was used to make composite variables,(_combining variables into one composite score_), run alphas, and complete descriptive and inferential statistics.
 -  #### R script: #Creating a composite variable in R
 -      #Checking the alpha of the items in the scale to make sure there is strong reliability across items (_justification for making it a scale score_)
--  
 -          - Beliefs About Obese Persons Scale: Script for Alpha
--      
 -          - alpha(weight_ed[,c('BAOP1','BAOP2R','BAOP3','BAOP4','BAOP5','BAOP6','BAOP7R','BAOP8')])
 -      
 #### Weight Stigma and Perceptions of Fitness Influencers 
