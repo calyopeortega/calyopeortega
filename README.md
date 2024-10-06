@@ -20,11 +20,11 @@ Research Data Consultant @ Appalachian State University
 -      #Checking the alpha of the items in the scale to make sure there is strong reliability across items
 -       (_justification for making it a scale score_)
 -          - Beliefs About Obese Persons Scale: Script for Alpha
--          - alpha(weight_ed[,c('BAOP1','BAOP2R','BAOP3',
+-          alpha(weight_ed[,c('BAOP1','BAOP2R','BAOP3',
 -      'BAOP4','BAOP5','BAOP6','BAOP7R','BAOP8')])
 -      #Creating a composite variable with reverse coded items
--          - weight_ed$BAOP_SCALE <- rowMeans(calyope[,c('BAOP1','BAOP2R',
--      'BAOP3','BAOP4','BAOP5','BAOP6','BAOP7R','BAOP8')], na.rm=TRUE)
+-          - weight_ed$BAOP_SCALE <- rowMeans(calyope[,c('BAOP1','BAOP2R','BAOP3','BAOP4','BAOP5','BAOP6','BAOP7R','BAOP8')], na.rm=TRUE)
+-      
 #### Weight Stigma and Perceptions of Fitness Influencers 
 - 
 
