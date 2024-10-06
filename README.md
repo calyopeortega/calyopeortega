@@ -17,9 +17,12 @@ Research Data Consultant @ Appalachian State University
 -   The data set was cleaned using excel (_incomplete surveys were removed for consent concerns_)
 -   R studio was used to make composite variables,(_combining variables into one composite score_), run alphas, and complete descriptive and inferential statistics.
 -   R script: #Creating a composite variable in R
+
     #Checking alpha first to make sure the items 
   alpha(calyope[,c('UMBFAT1','UMBFAT2','UMBFAT5','UMBFAT7','UMBFAT8','UMBFAT11','UMBFAT12','UMBFAT13','UMBFAT14',
                 'UMBFAT15','UMBFAT16','UMBFAT17','UMBFAT18','UMBFAT19','UMBFAT20')])
+
+    
     #Overall scale score variable
     calyope$UMBFAT_SCALE <- rowMeans(calyope[,c('UMBFAT1','UMBFAT2','UMBFAT5','UMBFAT7','UMBFAT8','UMBFAT11','UMBFAT12','UMBFAT13','UMBFAT14',
     'UMBFAT15','UMBFAT16','UMBFAT17','UMBFAT18','UMBFAT19','UMBFAT20')], na.rm=TRUE)
