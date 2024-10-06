@@ -11,7 +11,7 @@ Research Data Consultant @ Appalachian State University
 
 ### Projects
 #### Weight Bias and Health Sciences Education 
-- **Problem** Do the weight biases of health care educators covary with their approaches to teaching about weight and health?
+- **Problem:** Do the weight biases of health care educators covary with their approaches to teaching about weight and health?
 - **Data Acquisition:** Health sciences educators were recruited through a cluster sampling method (_three universities in each state that have a health sciences program were randomly picked_)
   -   Educators were asked to complete a Qualtrics survey that measured weight bias, curriculum type, and demographics.
   -   The data set was cleaned using excel (_incomplete surveys were removed for consent concerns_)
