@@ -32,6 +32,8 @@ Research Data Consultant @ Appalachian State University
   - One way ANOVA (_continous scale scores and categorical variables 3 levels)
 - **Skills Used:** Data cleaning using excel, data analysis using R studio
   -   R studio was used to make composite variables,(_combining variables into one composite score_), run alphas, and complete descriptive and inferential statistics.
+**Data Management:** [R code](https://docs.google.com/document/d/1_pNI0FK6MhG6-J-Ap4vmHWNuS8bU1RJG6fQPivQKdBE/edit?usp=sharing)
+**Data Visuals:** [Data Visuals: R code](https://docs.google.com/document/d/1VXblUg6XxUuppQJwa-2jgRxSv3KzmpR_k3IaYYxMRkQ/edit?usp=sharing)
 
 **Conclusions:**
 - Educators use a mix of HAES and weight management approaches.
