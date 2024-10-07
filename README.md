@@ -14,6 +14,15 @@ Research Data Consultant @ Appalachian State University
 - **Problems:**
   - How are health sciences educators teaching about weight in college classrooms?
   - Do the weight biases of health care educators covary with their approaches to teaching about weight and health?
+- **Main Variables**
+  - Weight Curriculum approaches
+    -  Health At Every Size (_An approach that targets healthy habits and not weight loss_)
+    -  Weight Management (_An approach that focuses on weight loss to be healthy_)
+  - Weight Bias (stereotypes: thoughts; prejudice: feelings)
+    -  Weight-based prejudice: Measured through the UMBFAT Scale
+    -  Weight-based stereotypes: Measured through the Beliefs About Obese Persons (_BAOP_) Scale
+
+       
 - **Data Acquisition:** Health sciences educators were recruited through a cluster sampling method (_three universities in each state that have a health sciences program were randomly picked_)
   -   Educators were asked to complete a Qualtrics survey that measured weight bias, curriculum type, and demographics.
   -   The data set was cleaned using excel (_incomplete surveys were removed for consent concerns_)
