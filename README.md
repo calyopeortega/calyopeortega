@@ -7,8 +7,13 @@ Psychology, BA (_MAY 2021_)
 
 ### Work Experience
 Research Data Consultant @ Appalachian State University
-- Big Impact Project 1
-- Big Impact Project 2
+- Analyzed data and built visual reports that provided support for a program that sought to increase intergenerational contact amongst adults and teens in the program. 
+- Designed dashboards and pivot tables that facilitated a clear understanding of which trainings were the most useful in a program leading to funding support for continuation of the program. 
+- Prepared detailed research reports and presentations that effectively communicated complex findings to clients that are unfamiliar with data analytics. 
+- Conducted presentations on research findings aiding in client understanding of project outcomes. 
+- Ran complex multi-level models and prepared a detailed research report that led to research efficiency for clients.
+- Utilized R and Jamovi to conduct predictive analytic statistics for various clients. 
+- Worked with clients to solve problems and identify trends and opportunities in their research  
 
 ### Projects
 
