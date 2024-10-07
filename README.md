@@ -1,6 +1,5 @@
 # 💫 Hi I am Calyope Ortega
-## Research Data Analyst/Consultant <br> 
-I am a trained data research consultant interested in all things Data Science! <br> 
+## Research Data Analyst/Consultant <br> I am a trained data research consultant interested in all things Data Science! <br> 
 
 - I am currently working on my [master's thesis](https://docs.google.com/presentation/d/1pNDz4RPEBREXKxgsNc60CoxCZFJRfe3x62foK2muLjQ/edit?usp=sharing) analyzing how weight stigma influences perceptions of larger-bodied fitness influencers.
 - I recently designed an analysis [report]() that helped a client understand how the Local Food Purchasing Agreement (LFPA) program was utilized at various consumer levels in North Carolina. 
