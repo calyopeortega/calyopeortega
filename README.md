@@ -1,5 +1,5 @@
 # 💫 Hi I am Calyope Ortega
-## Research Data Analyst/Consultant <br>I am a Master's student at Appalachian State University in the Psychological Sciences department. <br> <br>
+## Research Data Analyst/Consultant <br> I am a trained data research consultant interested in all things Data Science! <br> <br>
 
 
 ## 🌐 LinkedIn Profile
