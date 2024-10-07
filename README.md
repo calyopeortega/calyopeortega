@@ -24,7 +24,7 @@ Research Data Consultant @ Appalachian State University
 - **Skills Used:** Data cleaning using excel, data analysis using R studio
   -   R studio was used to make composite variables,(_combining variables into one composite score_), run alphas, and complete descriptive and inferential statistics.
 
-**Conclusions: **
+**Conclusions:**
 - Educators use a mix of HAES and weight management approaches.
 - Educators with lower levels of weight prejudice and stereotypes are more likely to have use a HAES approach. 
 - Educators with higher weight prejudice and stereotypes are more likely to use a weight management approach.
