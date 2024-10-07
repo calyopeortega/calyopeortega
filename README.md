@@ -51,7 +51,7 @@ Research Data Consultant @ Appalachian State University
 
        
 - **Data Acquisition:** Health sciences educators were recruited through a cluster sampling method (_three universities in each state that have a health sciences program were randomly picked_)
-  -   <img width="989" alt="image" src="https://github.com/user-attachments/assets/280f9a20-a32d-41ce-b382-ae2224eca80d">
+  -   Participants were emailed a Qualtrics survey 
   -   The data set was cleaned using excel (_incomplete surveys were removed for consent concerns_)
 - **Main Data Analysis:** 
   - Descriptives and Frequencies
