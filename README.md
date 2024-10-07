@@ -2,6 +2,7 @@
 
 ### Education 
 Psychological Sciences, MA (_MAY 2025_)
+
 Psychology, BA (_MAY 2021_)
 
 ### Work Experience
