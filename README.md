@@ -37,7 +37,7 @@ Research Data Consultant @ Appalachian State University
 - Educators use a mix of HAES and weight management approaches.
 - Educators with lower levels of weight prejudice and stereotypes are more likely to have use a HAES approach. 
 - Educators with higher weight prejudice and stereotypes are more likely to use a weight management approach.
-- The association between weight bias and use of a weight manage approach was higher for weight-based stereotyping compared to prejudice.
+- The association between weight bias and use of a weight management approach was higher for weight-based stereotyping compared to prejudice.
 
 **Future Directions**
 - Utilize the information as evidence for the intervention work with health sciences students.
