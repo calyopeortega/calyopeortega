@@ -30,7 +30,8 @@ Research Data Consultant @ Appalachian State University
 #### Weight Stigma and Perceptions of Fitness Influencers 
 
 - Current project: Master's Thesis
-Short [presentation](https://docs.google.com/presentation/d/1pNDz4RPEBREXKxgsNc60CoxCZFJRfe3x62foK2muLjQ/edit?usp=sharing) on my project.
+
+- Short [presentation](https://docs.google.com/presentation/d/1pNDz4RPEBREXKxgsNc60CoxCZFJRfe3x62foK2muLjQ/edit?usp=sharing) on my project.
 
 #### Weight Bias and Health Sciences Education 
 - **Problems:**
