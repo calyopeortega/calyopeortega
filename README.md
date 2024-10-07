@@ -10,6 +10,11 @@ Research Data Consultant @ Appalachian State University
 - Big Impact Project 2
 
 ### Projects
+
+#### Weight Stigma and Perceptions of Fitness Influencers 
+
+
+
 #### Weight Bias and Health Sciences Education 
 - **Problems:**
   - How are health sciences educators teaching about weight in college classrooms?
@@ -48,7 +53,4 @@ Research Data Consultant @ Appalachian State University
 - Examine the effectiveness of a weight bias intervention on different health sciences students.
 - Implementing a social desirability measure to assess whether that impacts bias scores. 
 
-  
-#### Weight Stigma and Perceptions of Fitness Influencers 
-- 
 
