@@ -11,7 +11,9 @@ Research Data Consultant @ Appalachian State University
 
 ### Projects
 #### Weight Bias and Health Sciences Education 
-- **Problem:** Do the weight biases of health care educators covary with their approaches to teaching about weight and health?
+- **Problems:**
+  - How are health sciences educators teaching about weight in college classrooms?
+  - Do the weight biases of health care educators covary with their approaches to teaching about weight and health?
 - **Data Acquisition:** Health sciences educators were recruited through a cluster sampling method (_three universities in each state that have a health sciences program were randomly picked_)
   -   Educators were asked to complete a Qualtrics survey that measured weight bias, curriculum type, and demographics.
   -   The data set was cleaned using excel (_incomplete surveys were removed for consent concerns_)
@@ -21,15 +23,18 @@ Research Data Consultant @ Appalachian State University
   - One way ANOVA (_continous scale scores and categorical variables 3 levels)
 - **Skills Used:** Data cleaning using excel, data analysis using R studio
   -   R studio was used to make composite variables,(_combining variables into one composite score_), run alphas, and complete descriptive and inferential statistics.
--  #### R script: #Creating a composite variable in R
--      #Checking the alpha of the items in the scale to make sure there is strong reliability across items
--       (_justification for making it a scale score_)
--       #Beliefs About Obese Persons Scale: Script for Alpha
-  -          alpha(weight_ed[,c('BAOP1','BAOP2R','BAOP3','BAOP4','BAOP5','BAOP6','BAOP7R','BAOP8')])
--      #Creating a composite variable with reverse coded items
-  -       weight_ed$BAOP_SCALE <-                                                                         
-          rowMeans(calyope[,c('BAOP1','BAOP2R','BAOP3','BAOP4','BAOP5','BAOP6','BAOP7R','BAOP8')], 
-           na.rm=TRUE)
+
+**Conclusions: **
+- Educators use a mix of HAES and weight management approaches.
+- Educators with lower levels of weight prejudice and stereotypes are more likely to have use a HAES approach. 
+- Educators with higher weight prejudice and stereotypes are more likely to use a weight management approach.
+- The association between weight bias and use of a weight manage approach was higher for weight-based stereotyping compared to prejudice.
+
+**Future Directions**
+- Utilize the information as evidence for the intervention work with health sciences students.
+- Examine the effectiveness of a weight bias intervention on different health sciences students.
+- Implementing a social desirability measure to assess whether that impacts bias scores. 
+
   
 #### Weight Stigma and Perceptions of Fitness Influencers 
 - 
