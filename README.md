@@ -60,7 +60,9 @@ Research Data Consultant @ Appalachian State University
 - **Skills Used:** Data cleaning using excel, data analysis using R studio
   -   R studio was used to make composite variables,(_combining variables into one composite score_), run alphas, and complete descriptive and inferential statistics.
     
-**Data Management:** [R code](https://docs.google.com/document/d/1_pNI0FK6MhG6-J-Ap4vmHWNuS8bU1RJG6fQPivQKdBE/edit?usp=sharing)
+**Data Management:** [R code](https://docs.google.com/document/d/1UwdBNAFdRThNUix2GaHCW9RaYnDTMVE_6VbUVclJZAQ/edit?usp=sharing)
+<img width="431" alt="image" src="https://github.com/user-attachments/assets/4250aaeb-75ad-4362-8da1-16598bd3f8e9">
+
 
 **Data Visuals:** [Data Visuals: R code](https://docs.google.com/document/d/1VXblUg6XxUuppQJwa-2jgRxSv3KzmpR_k3IaYYxMRkQ/edit?usp=sharing)
 
