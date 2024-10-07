@@ -50,9 +50,9 @@ Research Data Consultant @ Appalachian State University
     -  Weight-based stereotypes: Measured through the Beliefs About Obese Persons (_BAOP_) Scale
 
        
-- **Data Acquisition:** Health sciences educators were recruited through a cluster sampling method (_three universities in each state that have a health sciences program were randomly picked_)
+- **Data Acquisition:** Health sciences educators were recruited through a cluster sampling method 
   -   Participants were emailed a Qualtrics survey 
-  -   The data set was cleaned using excel (_incomplete surveys were removed for consent concerns_)
+  -   The data set was cleaned using excel 
 - **Main Data Analysis:** 
   - Descriptives and Frequencies
   - Independent t-tests (_continuous scale scores and categorical variable i.e. gender_)
