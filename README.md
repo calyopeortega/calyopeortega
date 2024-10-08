@@ -57,6 +57,9 @@ Research Data Consultant @ Appalachian State University
   - Descriptives and Frequencies
   - Independent t-tests (_continuous scale scores and categorical variable i.e. gender_)
   - One way ANOVA (_continous scale scores and categorical variables 3 levels)
+  
+    <img width="608" alt="image" src="https://github.com/user-attachments/assets/c5e97064-e7e7-49f3-a4e6-3412e3fa21b4">
+
 - **Skills Used:** Data cleaning using excel, data analysis using R studio
   -   R studio was used to make composite variables,(_combining variables into one composite score_), run alphas, and complete descriptive and inferential statistics.
     
