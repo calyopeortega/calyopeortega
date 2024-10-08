@@ -68,6 +68,11 @@ Research Data Consultant @ Appalachian State University
 
 **Data Visuals:** [Data Visuals: R code](https://docs.google.com/document/d/1VXblUg6XxUuppQJwa-2jgRxSv3KzmpR_k3IaYYxMRkQ/edit?usp=sharing)
 
+<img width="852" alt="image" src="https://github.com/user-attachments/assets/8dd1acd2-ab5e-4557-b332-f47a961e1edb">
+
+<img width="851" alt="image" src="https://github.com/user-attachments/assets/12e89da3-fb42-4959-b428-32e5f757d75e">
+
+
 **Conclusions:**
 - Educators use a mix of HAES and weight management approaches.
 - Educators with lower levels of weight prejudice and stereotypes are more likely to have use a HAES approach. 
