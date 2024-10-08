@@ -70,7 +70,13 @@ Research Data Consultant @ Appalachian State University
 
 <img width="852" alt="image" src="https://github.com/user-attachments/assets/8dd1acd2-ab5e-4557-b332-f47a961e1edb">
 
+- The scatterplots suggest that people with low weight stereotyping and prejudice are more likely to use a Health At Every Size approach.
+
+
 <img width="851" alt="image" src="https://github.com/user-attachments/assets/12e89da3-fb42-4959-b428-32e5f757d75e">
+
+- The scatterplots suggest that people with higher weight stereotyping and prejudice are more likely to use a Weight Management approach.
+
 
 
 **Conclusions:**
