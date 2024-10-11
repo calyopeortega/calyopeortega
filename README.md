@@ -39,8 +39,6 @@ Research Data Consultant @ Appalachian State University
 
 #### Weight Bias and Health Sciences Education 
 <img width="979" alt="image" src="https://github.com/user-attachments/assets/cc10ddc3-8534-4973-a06a-5e29766d0b23">
-
-
        
 - **Data Acquisition:** Health sciences educators were recruited through a cluster sampling method 
   -   Participants were emailed a Qualtrics survey 
@@ -74,7 +72,7 @@ Research Data Consultant @ Appalachian State University
 
 
 **Conclusions:**
-- Educators use a mix of HAES and weight management approaches.
+- Educators use a mix of HAES (_M =4.16, SD = 0.87_) and weight management (_M = 3.84, SD = 1.11 _) approaches.
 - Educators with lower levels of weight prejudice and stereotypes are more likely to have use a HAES approach. 
 - Educators with higher weight prejudice and stereotypes are more likely to use a weight management approach.
 - The association between weight bias and use of a weight management approach was higher for weight-based stereotyping compared to prejudice.
