@@ -28,6 +28,7 @@ Psychology, BA (_MAY 2021_)
 - Collaborated and communicated with over 20 clients using detailed research reports with visualizations and presentations to clearly define complex findings for non-technical readers.
 - Ran complex multi-level models using R Studio and prepared a detailed research report that led to research efficiency for clients.
 - Worked with clients to solve problems and identify trends and opportunities in their research using predictive analyses in R Studio or Jamovi.
+
 **Graduate Assistant**
 - Applied quantitative analysis to identify areas of improvement and inform interventions to decrease weight bias in health sciences students and curriculums
 - Conducted statistical analyses, including hypothesis testing, regression analysis, and analysis of variance (ANOVA) through R, Jamovi, and SPSS.
