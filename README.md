@@ -21,13 +21,15 @@ Psychology, BA (_MAY 2021_)
 
 ### Work Experience
 Research Data Consultant @ Appalachian State University
-- Analyzed data and built visual reports that provided support for a program that sought to increase intergenerational contact amongst adults and teens in the program. 
-- Designed dashboards and pivot tables that facilitated a clear understanding of which trainings were the most useful in a program leading to funding support for continuation of the program. 
-- Prepared detailed research reports and presentations that effectively communicated complex findings to clients that are unfamiliar with data analytics. 
-- Conducted presentations on research findings aiding in client understanding of project outcomes. 
-- Ran complex multi-level models and prepared a detailed research report that led to research efficiency for clients.
-- Utilized R and Jamovi to conduct predictive analytic statistics for various clients. 
-- Worked with clients to solve problems and identify trends and opportunities in their research  
+- Utilized R Studio, SQL, or Excel to clean data, calculate descriptive statistics, and generate codebooks.
+- Conducted numerous reliability analyses and reverse-scored items when needed to create aggregate scores and scales
+- Designed dashboards, pivot tables, and figures using Power BI or Excel that facilitated a clear understanding of which trainings were the most useful in a school program.
+- Developed and designed multiple Qualtrics surveys for clients and my thesis research
+- Collaborated and communicated with over 20 clients using detailed research reports with visualizations and presentations to clearly define complex findings for non-technical readers.
+- Ran complex multi-level models using R Studio and prepared a detailed research report that led to research efficiency for clients.
+- Worked with clients to solve problems and identify trends and opportunities in their research using predictive analyses in R Studio or Jamovi.
+![image](https://github.com/user-attachments/assets/6770c981-eda8-4879-9f97-ca44cae74f15)
+
 
 ### Projects
 
