@@ -28,7 +28,7 @@ Research Data Consultant @ Appalachian State University
 - Collaborated and communicated with over 20 clients using detailed research reports with visualizations and presentations to clearly define complex findings for non-technical readers.
 - Ran complex multi-level models using R Studio and prepared a detailed research report that led to research efficiency for clients.
 - Worked with clients to solve problems and identify trends and opportunities in their research using predictive analyses in R Studio or Jamovi.
-![image](https://github.com/user-attachments/assets/6770c981-eda8-4879-9f97-ca44cae74f15)
+
 
 
 ### Projects
