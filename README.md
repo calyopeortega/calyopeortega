@@ -29,7 +29,7 @@ Psychology, BA (_MAY 2021_)
 - Ran complex multi-level models using R Studio and prepared a detailed research report that led to research efficiency for clients.
 - Worked with clients to solve problems and identify trends and opportunities in their research using predictive analyses in R Studio or Jamovi.
 
-**Graduate Assistant**
+**Graduate Assistant @ Appalachian State University**
 - Applied quantitative analysis to identify areas of improvement and inform interventions to decrease weight bias in health sciences students and curriculums
 - Conducted statistical analyses, including hypothesis testing, regression analysis, and analysis of variance (ANOVA) through R, Jamovi, and SPSS.
 - Utilized R Studio to conduct descriptive and inferential statistical analyses to examine the prevalence of weight bias in health sciences education
