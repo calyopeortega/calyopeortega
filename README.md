@@ -18,9 +18,11 @@
 **Appalachian State University**
 Master of Arts in Psychological Sciences    GPA: 3.95
 Relevant Coursework: Research Methods, Advanced Quantitative Analysis
+
 **St. Thomas University**
 Bachelor of Arts in Psychology    GPA: 3.77
 Relevant Coursework: Statistics, Health Psychology, Social Psychology
+
 
 ### Work Experience
 **Research Data Consultant @ Appalachian State University**
@@ -31,6 +33,7 @@ Relevant Coursework: Statistics, Health Psychology, Social Psychology
 - Collaborated and communicated with over 20 clients using detailed research reports with visualizations and presentations to clearly define complex findings for non-technical readers.
 - Ran complex multi-level models using R Studio and prepared a detailed research report that led to research efficiency for clients.
 - Worked with clients to solve problems and identify trends and opportunities in their research using predictive analyses in R Studio or Jamovi.
+
 
 **Graduate Assistant @ Appalachian State University**
 - Applied quantitative analysis to identify areas of improvement and inform interventions to decrease weight bias in health sciences students and curriculums
