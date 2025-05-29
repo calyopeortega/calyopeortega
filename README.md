@@ -16,11 +16,15 @@
 
 ### Education 
 **Appalachian State University**
+
 Master of Arts in Psychological Sciences    GPA: 3.95
+
 Relevant Coursework: Research Methods, Advanced Quantitative Analysis
 
 **St. Thomas University**
+
 Bachelor of Arts in Psychology    GPA: 3.77
+
 Relevant Coursework: Statistics, Health Psychology, Social Psychology
 
 
