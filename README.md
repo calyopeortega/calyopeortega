@@ -15,9 +15,12 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### Education 
-Psychological Sciences, MA (_MAY 2025_)
-
-Psychology, BA (_MAY 2021_)
+**Appalachian State University**
+Master of Arts in Psychological Sciences    GPA: 3.95
+Relevant Coursework: Research Methods, Advanced Quantitative Analysis
+**St. Thomas University**
+Bachelor of Arts in Psychology    GPA: 3.77
+Relevant Coursework: Statistics, Health Psychology, Social Psychology
 
 ### Work Experience
 **Research Data Consultant @ Appalachian State University**
