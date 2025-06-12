@@ -27,25 +27,6 @@ Bachelor of Arts in Psychology    GPA: 3.77
 
 Relevant Coursework: Statistics, Health Psychology, Social Psychology
 
-
-### Work Experience
-**Research Data Consultant @ Appalachian State University**
-- Utilized R Studio, SQL, or Excel to clean data, calculate descriptive statistics, and generate codebooks.
-- Conducted numerous reliability analyses and reverse-scored items when needed to create aggregate scores and scales
-- Designed dashboards, pivot tables, and figures using Power BI or Excel that facilitated a clear understanding of which trainings were the most useful in a school program.
-- Developed and designed multiple Qualtrics surveys for clients and my thesis research
-- Collaborated and communicated with over 20 clients using detailed research reports with visualizations and presentations to clearly define complex findings for non-technical readers.
-- Ran complex multi-level models using R Studio and prepared a detailed research report that led to research efficiency for clients.
-- Worked with clients to solve problems and identify trends and opportunities in their research using predictive analyses in R Studio or Jamovi.
-
-
-**Graduate Assistant @ Appalachian State University**
-- Applied quantitative analysis to identify areas of improvement and inform interventions to decrease weight bias in health sciences students and curriculums
-- Conducted statistical analyses, including hypothesis testing, regression analysis, and analysis of variance (ANOVA) through R, Jamovi, and SPSS.
-- Utilized R Studio to conduct descriptive and inferential statistical analyses to examine the prevalence of weight bias in health sciences education
-- Presented research findings at SSSP Conference 2023 using visual aids such as charts, graphs, and tables, enabling effective communication of insights derived from data analysis.
-
-
 ### Projects
 
 #### Weight Stigma and Perceptions of Fitness Influencers 
@@ -99,4 +80,20 @@ Relevant Coursework: Statistics, Health Psychology, Social Psychology
 - Examine the effectiveness of a weight bias intervention on different health sciences students.
 - Implementing a social desirability measure to assess whether that impacts bias scores. 
 
+### Work Experience
+**Research Data Consultant @ Appalachian State University**
+- Utilized R Studio, SQL, or Excel to clean data, calculate descriptive statistics, and generate codebooks.
+- Conducted numerous reliability analyses and reverse-scored items when needed to create aggregate scores and scales
+- Designed dashboards, pivot tables, and figures using Power BI or Excel that facilitated a clear understanding of which trainings were the most useful in a school program.
+- Developed and designed multiple Qualtrics surveys for clients and my thesis research
+- Collaborated and communicated with over 20 clients using detailed research reports with visualizations and presentations to clearly define complex findings for non-technical readers.
+- Ran complex multi-level models using R Studio and prepared a detailed research report that led to research efficiency for clients.
+- Worked with clients to solve problems and identify trends and opportunities in their research using predictive analyses in R Studio or Jamovi.
+
+
+**Graduate Assistant @ Appalachian State University**
+- Applied quantitative analysis to identify areas of improvement and inform interventions to decrease weight bias in health sciences students and curriculums
+- Conducted statistical analyses, including hypothesis testing, regression analysis, and analysis of variance (ANOVA) through R, Jamovi, and SPSS.
+- Utilized R Studio to conduct descriptive and inferential statistical analyses to examine the prevalence of weight bias in health sciences education
+- Presented research findings at SSSP Conference 2023 using visual aids such as charts, graphs, and tables, enabling effective communication of insights derived from data analysis.
 
