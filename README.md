@@ -29,7 +29,7 @@ Relevant Coursework: Statistics, Health Psychology, Social Psychology
 
 ### Projects
 #### Weight Bias and Health Sciences Education 
-[Project Report](https://docs.google.com/document/d/1utikUgWtlfQ0x--2zWX0kcI2guYq3ZArUme04ek9O8U/edit?usp=sharing)
+[Project Report](https://docs.google.com/document/d/1utikUgWtlfQ0x--2zWX0kcI2guYq3ZArUme04ek9O8U/edit?usp=sharing) **<--- CLICK TO VIEW REPORT <---**
 
 
 #### Weight Stigma and Perceptions of Fitness Influencers 
