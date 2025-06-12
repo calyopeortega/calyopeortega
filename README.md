@@ -28,6 +28,10 @@ Bachelor of Arts in Psychology    GPA: 3.77
 Relevant Coursework: Statistics, Health Psychology, Social Psychology
 
 ### Projects
+#### Weight Bias and Health Sciences Education 
+[Project Report](https://docs.google.com/document/d/1utikUgWtlfQ0x--2zWX0kcI2guYq3ZArUme04ek9O8U/edit?usp=sharing)
+
+<img width="979" alt="image" src="https://github.com/user-attachments/assets/cc10ddc3-8534-4973-a06a-5e29766d0b23">
 
 #### Weight Stigma and Perceptions of Fitness Influencers 
 
@@ -35,10 +39,6 @@ Relevant Coursework: Statistics, Health Psychology, Social Psychology
 
 - Short [presentation](https://docs.google.com/presentation/d/1pNDz4RPEBREXKxgsNc60CoxCZFJRfe3x62foK2muLjQ/edit?usp=sharing) on my project.
 
-#### Weight Bias and Health Sciences Education 
-Project [Report](https://docs.google.com/document/d/1utikUgWtlfQ0x--2zWX0kcI2guYq3ZArUme04ek9O8U/edit?usp=sharing)
-
-<img width="979" alt="image" src="https://github.com/user-attachments/assets/cc10ddc3-8534-4973-a06a-5e29766d0b23">
 
 
 ### Work Experience
