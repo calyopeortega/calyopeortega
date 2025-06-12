@@ -34,8 +34,6 @@ Relevant Coursework: Statistics, Health Psychology, Social Psychology
 
 #### Weight Stigma and Perceptions of Fitness Influencers 
 
-- Current project: Master's Thesis
-
 - Short [presentation](https://docs.google.com/presentation/d/1pNDz4RPEBREXKxgsNc60CoxCZFJRfe3x62foK2muLjQ/edit?usp=sharing) on my project.
 
 
