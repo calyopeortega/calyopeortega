@@ -36,49 +36,10 @@ Relevant Coursework: Statistics, Health Psychology, Social Psychology
 - Short [presentation](https://docs.google.com/presentation/d/1pNDz4RPEBREXKxgsNc60CoxCZFJRfe3x62foK2muLjQ/edit?usp=sharing) on my project.
 
 #### Weight Bias and Health Sciences Education 
+Project [Report](https://docs.google.com/document/d/1utikUgWtlfQ0x--2zWX0kcI2guYq3ZArUme04ek9O8U/edit?usp=sharing)
+
 <img width="979" alt="image" src="https://github.com/user-attachments/assets/cc10ddc3-8534-4973-a06a-5e29766d0b23">
-       
-- **Data Acquisition:** Health sciences educators were recruited through a cluster sampling method 
-  -   Participants were emailed a Qualtrics survey 
-  -   The data set was cleaned using excel 
-- **Main Data Analysis:** 
-  - Descriptives and Frequencies
-  - Independent t-tests (_continuous scale scores and categorical variable i.e. gender_)
-  - One way ANOVA (_continous scale scores and categorical variables 3 levels)
-  
-    <img width="608" alt="image" src="https://github.com/user-attachments/assets/c5e97064-e7e7-49f3-a4e6-3412e3fa21b4">
 
-- **Skills Used:** Data cleaning using excel, data analysis using R studio, and PowerBI for visuals
-    
-**Data Management:** [R code](https://docs.google.com/document/d/1UwdBNAFdRThNUix2GaHCW9RaYnDTMVE_6VbUVclJZAQ/edit?usp=sharing)
-
-
-<img width="431" alt="image" src="https://github.com/user-attachments/assets/4250aaeb-75ad-4362-8da1-16598bd3f8e9">
-
-
-**Data Visuals:** [Data Visuals: R code](https://docs.google.com/document/d/1VXblUg6XxUuppQJwa-2jgRxSv3KzmpR_k3IaYYxMRkQ/edit?usp=sharing)
-
-<img width="852" alt="image" src="https://github.com/user-attachments/assets/8dd1acd2-ab5e-4557-b332-f47a961e1edb">
-
-- The scatterplots suggest that people with low weight stereotyping and prejudice are more likely to use a Health At Every Size approach.
-
-
-<img width="851" alt="image" src="https://github.com/user-attachments/assets/12e89da3-fb42-4959-b428-32e5f757d75e">
-
-- The scatterplots suggest that people with higher weight stereotyping and prejudice are more likely to use a Weight Management approach.
-
-
-
-**Conclusions:**
-- Educators use a mix of HAES (_M =4.16, SD = 0.87_) and weight management (_M = 3.84, SD = 1.11 _) approaches.
-- Educators with lower levels of weight prejudice and stereotypes are more likely to have use a HAES approach. 
-- Educators with higher weight prejudice and stereotypes are more likely to use a weight management approach.
-- The association between weight bias and use of a weight management approach was higher for weight-based stereotyping compared to prejudice.
-
-**Future Directions**
-- Utilize the information as evidence for the intervention work with health sciences students.
-- Examine the effectiveness of a weight bias intervention on different health sciences students.
-- Implementing a social desirability measure to assess whether that impacts bias scores. 
 
 ### Work Experience
 **Research Data Consultant @ Appalachian State University**
