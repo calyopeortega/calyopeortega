@@ -1,7 +1,7 @@
 # 💫 Hi I am Calyope Ortega
 ## Research Data Analyst/Consultant <br> I am a trained data research consultant interested in all things Data Science! <br> 
 
-- I currently work with client to meet their research needs whether it is data acquisition, data management and analysis, report writing, or manuscript writing. 
+- I currently work with clients to meet their research needs whether it is data acquisition, data management and analysis, report writing, or manuscript writing. 
 - My most recent personal project was my [master's thesis](https://docs.google.com/presentation/d/1pNDz4RPEBREXKxgsNc60CoxCZFJRfe3x62foK2muLjQ/edit?usp=sharing) analyzing how weight stigma influences perceptions of larger-bodied fitness influencers.
 - I recently designed an analysis report that helped a client understand how the Local Food Purchasing Agreement (LFPA) program was utilized at various consumer levels in North Carolina. 
 - I'm seeking a job in the Data Analytics field. 
